@@ -1,12 +1,12 @@
 /* Theme */
 
 main {
-	background: #303F9F;
-	color: #FAFAFA;
+	background: #FFFFFF;
+	color: #000000;
 }
 
 .icons-social a {
-	color: #FAFAFA;
+	color: #000000;
 }
 
 .icons-social a svg path{
